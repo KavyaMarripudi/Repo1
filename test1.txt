@@ -1,10 +1,2 @@
- Volume in drive C is Windows
- Volume Serial Number is EAFE-F87C
+change1
 
- Directory of C:\Users\NoDabba-Admin\Desktop\GitProject
-
-30-07-2018  17:44    <DIR>          .
-30-07-2018  17:44    <DIR>          ..
-30-07-2018  17:44                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  134,296,408,064 bytes free
